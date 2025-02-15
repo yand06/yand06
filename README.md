@@ -13,16 +13,6 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 - **Databases**: MySQL
 - **Tools**: IntelliJ IDEA, Git
 
-## 🚀 Projects
-- [Project 1 - CRUD Java Spring Boot List Bulk Food](https://github.com/yand06/CRUD-Spring-List-Bulk-Food)
-- [Project 2 - Inventory Management System](#)
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=dark)
-
-## My Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🎓 Education and Certifications
 
 - **Undergraduate Informatics Engineering Student -** [Universitas Indraprasta PGRI] (2021 - Now)  
@@ -51,7 +41,13 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 
 ### Tools & Others
 - **Git & GitHub: 5/10**  
-- **IntelliJ IDEA: 7/10**  
+- **IntelliJ IDEA: 7/10**
+  
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=dark)
+
+## My Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 ⭐️ Feel free to check out my repositories and contribute!
