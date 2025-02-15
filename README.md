@@ -25,29 +25,30 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 
 ## 🎓 Education and Certifications
 
-- **Bachelor's Degree in Computer Science** - [Universitas XYZ] (2020 - 2024)  
-  - Focus: Backend Development, Software Engineering, Database Management  
+- **Undergraduate Informatics Engineering Student** - [Universitas Indraprasta PGRI] (2021 - Now)  
+  - Focus: Backend Development, Software Engineering, Database Management, Fullstack Development
 
-- **Dicoding Certification** - (2023)  
-  - Java Developer Learning Path  
-  - Backend Developer Learning Path  
+- **Dicoding Certification**   
+  - Learning the Basics of JavaScript Programming - (Jan 13, 2025)
+  - Getting Started with Java Programming - (Aug 31, 2023)
+  - Learning to Create Android Applications for Beginners - (Jun 6, 2023)
 
 ## 🔥 Skills
 
 ### Programming Languages
-- **Java**: (8.5/10)  
-- **SQL (MySQL)**: (7/10)  
-- **HTML & CSS**: (5/10)  
-- **JavaScript (Basic)**: (5/10)  
+- **Java: 8.5/10**
+- **MySQL: 7/10**  
+- **HTML & CSS: 5/10**  
+- **JavaScript (Basic): 5/10**  
 
 ### Frameworks & Technologies
-- **Spring Boot**: (6/10)  
-- **Hibernate/JPA**: (5/10)  
-- **Bootstrap**: (5/10)  
+- **Spring Boot: 6/10**  
+- **Hibernate/JPA: 5/10**  
+- **Bootstrap: 5/10**
 
 ### Tools & Others
-- **Git & GitHub**: (5/10)  
-- **IntelliJ IDEA**: (7/10)  
+- **Git & GitHub: 5/10**  
+- **IntelliJ IDEA: 7/10**  
 
 ---
 ⭐️ Feel free to check out my repositories and contribute!
