@@ -18,7 +18,7 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 - [Project 2 - Inventory Management System](#)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=dark)
 
 ## My Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
