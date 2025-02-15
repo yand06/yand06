@@ -35,20 +35,19 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 ## 🔥 Skills
 
 ### Programming Languages
-- **Java**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥 (9/10)  
-- **SQL (MySQL, PostgreSQL)**: 🔥🔥🔥🔥🔥🔥🔥 (8/10)  
-- **HTML & CSS**: 🔥🔥🔥🔥🔥 (6/10)  
-- **JavaScript (Basic)**: 🔥🔥🔥🔥 (5/10)  
+- **Java**: (8.5/10)  
+- **SQL (MySQL)**: (7/10)  
+- **HTML & CSS**: (5/10)  
+- **JavaScript (Basic)**: (5/10)  
 
 ### Frameworks & Technologies
-- **Spring Boot**: 🔥🔥🔥🔥🔥🔥🔥 (8/10)  
-- **Hibernate/JPA**: 🔥🔥🔥🔥🔥🔥 (7/10)  
-- **Bootstrap**: 🔥🔥🔥🔥 (5/10)  
+- **Spring Boot**: (6/10)  
+- **Hibernate/JPA**: (5/10)  
+- **Bootstrap**: (5/10)  
 
 ### Tools & Others
-- **Git & GitHub**: 🔥🔥🔥🔥🔥🔥 (7/10)  
-- **Docker (Basic)**: 🔥🔥🔥🔥 (5/10)  
-- **IntelliJ IDEA**: 🔥🔥🔥🔥🔥🔥🔥🔥 (9/10)  
+- **Git & GitHub**: (5/10)  
+- **IntelliJ IDEA**: (7/10)  
 
 ---
 ⭐️ Feel free to check out my repositories and contribute!
