@@ -23,5 +23,32 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 ## My Programming Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🎓 Education and Certifications
+
+- **Bachelor's Degree in Computer Science** - [Universitas XYZ] (2020 - 2024)  
+  - Focus: Backend Development, Software Engineering, Database Management  
+
+- **Dicoding Certification** - (2023)  
+  - Java Developer Learning Path  
+  - Backend Developer Learning Path  
+
+## 🔥 Skills
+
+### Programming Languages
+- **Java**: 🔥🔥🔥🔥🔥🔥🔥🔥🔥 (9/10)  
+- **SQL (MySQL, PostgreSQL)**: 🔥🔥🔥🔥🔥🔥🔥 (8/10)  
+- **HTML & CSS**: 🔥🔥🔥🔥🔥 (6/10)  
+- **JavaScript (Basic)**: 🔥🔥🔥🔥 (5/10)  
+
+### Frameworks & Technologies
+- **Spring Boot**: 🔥🔥🔥🔥🔥🔥🔥 (8/10)  
+- **Hibernate/JPA**: 🔥🔥🔥🔥🔥🔥 (7/10)  
+- **Bootstrap**: 🔥🔥🔥🔥 (5/10)  
+
+### Tools & Others
+- **Git & GitHub**: 🔥🔥🔥🔥🔥🔥 (7/10)  
+- **Docker (Basic)**: 🔥🔥🔥🔥 (5/10)  
+- **IntelliJ IDEA**: 🔥🔥🔥🔥🔥🔥🔥🔥 (9/10)  
+
 ---
 ⭐️ Feel free to check out my repositories and contribute!
