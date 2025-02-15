@@ -14,7 +14,7 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 - **Tools**: IntelliJ IDEA, Git
 
 ## 🚀 Projects
-- [Project 1 - CRUD Java Desktop](#)
+- [Project 1 - CRUD Java Spring Boot List Bulk Food](https://github.com/yand06/CRUD-Spring-List-Bulk-Food)
 - [Project 2 - Inventory Management System](#)
 
 ## 📊 GitHub Stats
