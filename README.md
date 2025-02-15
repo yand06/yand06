@@ -25,10 +25,10 @@ I'm a **Backend Developer** passionate about building scalable and efficient app
 
 ## 🎓 Education and Certifications
 
-- **Undergraduate Informatics Engineering Student** - [Universitas Indraprasta PGRI] (2021 - Now)  
+- **Undergraduate Informatics Engineering Student -** [Universitas Indraprasta PGRI] (2021 - Now)  
   - Focus: Backend Development, Software Engineering, Database Management, Fullstack Development
     
-- **SMA NEGERI 1 MALUKU TENGAH** - (2018 - 2021)  
+- **SMA NEGERI 1 MALUKU TENGAH -** (2018 - 2021)  
   - Department of Mathematics and Natural Sciences (MIPA).
 
 - **Dicoding Certification**   
