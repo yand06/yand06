@@ -1,4 +1,4 @@
-# Hi there, I'm Yann! 👋
+# Hi, I'm Yann! 👋
 
 I'm a Java Developer passionate about building scalable and efficient applications. I love working with Java, Spring Boot, and databases. I specialize in creating robust backend systems, integrating APIs, and optimizing database performance. With a strong foundation in software architecture and problem-solving, I strive to develop reliable and high-performing applications.
 
