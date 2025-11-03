@@ -8,14 +8,14 @@ I'm a Java Developer passionate about building scalable and efficient applicatio
 - 📫 How to reach me: **supriyandilaawe@gmail.com**.
 
 ## 💻 Tech Stack
-- **Programming Languages**: Java
+- **Programming Languages**: Java, TS
 - **Frameworks**: Spring Boot
-- **Databases**: MySQL
-- **Tools**: IntelliJ IDEA, Git
+- **Databases**: MySQL, Postgre SQL
+- **Tools**: IntelliJ IDEA, Git, VS Code, Postman, Docker, Apache Netbeans, Laragon 
 
 ## 🎓 Education and Certifications
 
-- **Undergraduate Informatics Engineering Student -** [Universitas Indraprasta PGRI] (2021 - Now)  
+- **Bachelor of Informatics Engineering Graduate -** [Universitas Indraprasta PGRI] (2021 - 2025)  
   - Focus: Backend Development, Software Engineering, Database Management, Fullstack Development
     
 - **SMA NEGERI 1 MALUKU TENGAH -** (2018 - 2021)  
@@ -30,18 +30,20 @@ I'm a Java Developer passionate about building scalable and efficient applicatio
 
 ### Programming Languages
 - **Java: 8.5/10**
-- **MySQL: 7/10**  
-- **HTML & CSS: 5/10**  
-- **JavaScript (Basic): 5/10**  
+- **MySQL: 8.5/10**  
+- **HTML & CSS: 7/10**  
+- **TypeScript: 6/10**
+- **JavaScript: 6/10**  
 
 ### Frameworks & Technologies
-- **Spring Boot: 6/10**  
-- **Hibernate/JPA: 5/10**  
+- **Spring Boot: 8.5/10**  
+- **Hibernate/JPA: 7.5/10**  
 - **Bootstrap: 5/10**
+- **Tailwind: 5/10**
 
 ### Tools & Others
-- **Git & GitHub: 5/10**  
-- **IntelliJ IDEA: 7/10**
+- **Git & GitHub: 8/10**  
+- **IntelliJ IDEA: 8/10**
   
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=dark)
