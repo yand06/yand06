@@ -1,58 +1,59 @@
 # Hi, I'm Yann! 👋
 
-I'm a Java Developer passionate about building scalable and efficient applications. I love working with Java, Spring Boot, and databases. I specialize in creating robust backend systems, integrating APIs, and optimizing database performance. With a strong foundation in software architecture and problem-solving, I strive to develop reliable and high-performing applications.
-
-## 🔥 About Me
-- 🌱 I’m currently learning **Spring Boot & Full-Stack Development**.
-- 💼 Open to **Freelance & Job Opportunities** in Backend Development.
-- 📫 How to reach me: **supriyandilaawe@gmail.com**.
-
-## 💻 Tech Stack
-- **Programming Languages**: Java, TS
-- **Frameworks**: Spring Boot
-- **Databases**: MySQL, Postgre SQL
-- **Tools**: IntelliJ IDEA, Git, VS Code, Postman, Docker, Apache Netbeans, Laragon 
-
-## 🎓 Education and Certifications
-
-- **Bachelor of Informatics Engineering Graduate -** [Universitas Indraprasta PGRI] (2021 - 2025)  
-  - Focus: Backend Development, Software Engineering, Database Management, Fullstack Development
-    
-- **SMA NEGERI 1 MALUKU TENGAH -** (2018 - 2021)  
-  - Department of Mathematics and Natural Sciences (MIPA).
-
-- **Dicoding Certification**   
-  - Learning the Basics of JavaScript Programming - (Jan 13, 2025)
-  - Getting Started with Java Programming - (Aug 31, 2023)
-  - Learning to Create Android Applications for Beginners - (Jun 6, 2023)
-
-## 🔥 Skills
-
-### Programming Languages
-- **Java: 8.5/10**
-- **MySQL: 8.5/10**  
-- **HTML & CSS: 7/10**  
-- **TypeScript: 6/10**
-- **JavaScript: 6/10**  
-
-### Frameworks & Technologies
-- **Spring Boot: 9/10**  
-- **Hibernate/JPA: 8.5/10**  
-- **Bootstrap: 7/10**
-- **Tailwind: 7/10**
-- **JOOQ: 8.5/10**
-- **Kafka: 9/10**
-- **Redis: 8/10**
-
-### Tools & Others
-- **Git & GitHub: 8/10**  
-- **IntelliJ IDEA: 8/10**
-  
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=dark)
-
-## My Programming Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### 🚀 Java Fullstack Developer | Spring Boot & React Enthusiast
+I'm a professional developer passionate about building scalable, efficient, and robust applications. I specialize in crafting high-performance backend systems with **Java & Spring Boot** while delivering seamless user experiences using **React**.
 
 ---
-⭐️ Feel free to check out my repositories and contribute!
+
+## 🔥 About Me
+- 💼 Currently working as a **Java Fullstack Developer**.
+- 🛠️ Building a **Personal Investment Portfolio Tracker** (Java, Spring Boot, React).
+- 🌱 Deep diving into **Event-Driven Architecture (Kafka)** and **Performance Tuning**.
+- 📫 Reach me at: **supriyandilaawe@gmail.com**
+
+## 💻 Tech Stack
+
+### 🏗️ Backend
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🎨 Frontend & Mobile
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Database & DevOps
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🎓 Education
+- **B.S. in Informatics Engineering** | Universitas Indraprasta PGRI (2021 - 2025)
+  - *Focus:* Backend Engineering, Software Architecture, and Database Management.
+
+## 🏆 Certifications
+- **Dicoding:** Learning the Basics of JavaScript Programming (2025)
+- **Dicoding:** Getting Started with Java Programming (2023)
+- **Dicoding:** Creating Android Applications for Beginners (2023)
+
+---
+
+## 📊 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=dark" alt="Yann's GitHub Stats" />
+</p>
+
+### 🛠️ Languages and Tools
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=dark&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+⭐ *Feel free to explore my repositories or reach out for collaboration!*
