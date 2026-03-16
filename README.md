@@ -35,8 +35,9 @@ I'm a professional developer passionate about building scalable, efficient, and 
 
 ---
 
-## Education
-- **B.S. in Informatics Engineering** | Universitas Indraprasta PGRI (2021 - 2025)
+## 🎓 Education
+- **Bachelor of Informatics Engineering** | Universitas Indraprasta PGRI (2021 - 2025)
+  - *Status:* Graduated
   - *Focus:* Backend Engineering, Software Architecture, and Database Management.
 
 ## Certifications
