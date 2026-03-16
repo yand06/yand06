@@ -36,10 +36,13 @@ I'm a Java Developer passionate about building scalable and efficient applicatio
 - **JavaScript: 6/10**  
 
 ### Frameworks & Technologies
-- **Spring Boot: 8.5/10**  
-- **Hibernate/JPA: 7.5/10**  
-- **Bootstrap: 5/10**
-- **Tailwind: 5/10**
+- **Spring Boot: 9/10**  
+- **Hibernate/JPA: 8.5/10**  
+- **Bootstrap: 7/10**
+- **Tailwind: 7/10**
+- **JOOQ: 8.5/10**
+- **Kafka: 9/10**
+- **Redis: 8/10**
 
 ### Tools & Others
 - **Git & GitHub: 8/10**  
