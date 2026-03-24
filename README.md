@@ -3,8 +3,6 @@
 ### Java Fullstack Developer | Spring Boot & React Enthusiast
 I'm a professional developer passionate about building scalable, efficient, and robust applications. I specialize in crafting high-performance backend systems with **Java & Spring Boot** while delivering seamless user experiences using **React**.
 
----
-
 ## About Me
 - Currently working as a **Java Fullstack Developer**.
 - Building a **Project with tech** Java, Spring Boot, React.
