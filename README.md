@@ -45,17 +45,15 @@ I'm a professional developer passionate about building scalable, efficient, and 
 
 ---
 
-## 📊 GitHub Insights
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+### 📊 GitHub Insights
+<div align="center">
+  <a href="https://github.com/yand06">
+    <img src="https://github-readme-stats.vercel.app/api?username=yand06&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Yann's GitHub Stats" />
+  </a>
+  <a href="https://github.com/yand06">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yand06&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  </a>
+</div>
 
 ---
 *Feel free to explore my repositories or reach out for collaboration!*
