@@ -1,6 +1,6 @@
 # Hi, I'm Supriyandi La Awe!
 
-### Java Fullstack Developer | Spring Boot & React Enthusiast
+### Java Fullstack Developer
 I'm a professional developer passionate about building scalable, efficient, and robust applications. I specialize in crafting high-performance backend systems with **Java & Spring Boot** while delivering seamless user experiences using **React**.
 
 ## About Me
